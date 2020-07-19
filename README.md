@@ -6,5 +6,6 @@ This app is build by completing this [graphql series](https://www.youtube.com/pl
 - express-graphql package to apollo-server-express package
 - react classes to react hooks
 - added environment variables support 
+- added babel
 
 ## **Work In Progress**
